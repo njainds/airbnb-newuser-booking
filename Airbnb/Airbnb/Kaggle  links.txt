@@ -1,0 +1,3 @@
+https://github.com/rohanrao91/Kaggle_AirBnB
+https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings
+http://blog.kaggle.com/2016/03/07/airbnb-new-user-bookings-winners-interview-3rd-place-sandro-vega-pons/
